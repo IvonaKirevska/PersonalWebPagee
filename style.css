@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+#first, #second, #third, #forth, #fifth{
+    padding: 20px;
+    margin-top: 50px;
+    border-bottom: solid gray;
+    background-color: lightgrey;
+}
+
+h2{
+    color: #333;
+}
+
+#second p{
+    float: right;
+    margin-right: 550px;
+    margin-top: -150px;
+    line-height: 23px;
+}
+#third p, #forth p{
+    line-height: 23px;
+}
+#swim{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 550px;
+    margin-top: -150px;
+}
+#movie{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 400px;
+    margin-top: -150px;
+}
+#friends{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 250px;
+    margin-top: -150px;
+}
+.travels{
+    display: inline-block;
+    margin-left: 720px;
+}
+.travels h2{
+    margin-left:  -100px;
+}
+#img1, #img2, #img3{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: -150px;
+}
+#img1{
+    margin-left: 500px;
+}
+#img2{
+    margin-left: 350px;
+}
+#img3{
+    margin-left: 200px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
